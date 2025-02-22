@@ -1,4 +1,4 @@
-# Hello World!, I'm Imam A'syari, a Software Engineer:
+# I'm Imam A'syari, a Software and AI Engineer:
 - Currently working on my own [webpage](https://www.imamasyari.com)
 - Studying Fullstack Javascript at Hacktiv8🦊
 - Working as a Fullstack Developer and AI Application Developer.
