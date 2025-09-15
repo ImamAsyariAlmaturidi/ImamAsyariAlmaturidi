@@ -1,5 +1,5 @@
 # I'm Imam A'syari, a Software and AI Engineer 🗿
-- Currently working on Cekat.AI [webpage](https://www.cekat.ai)
+- Currently working on [Cekat.AI](https://www.cekat.ai)
 - Studying Fullstack Javascript at Hacktiv8🦊
 - Working as a Fullstack Developer and AI Application Developer.
 
